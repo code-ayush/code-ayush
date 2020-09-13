@@ -13,6 +13,7 @@ Find out more about me & feel free to connect with me here:
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-2b2b2b?style=flat-square&logo=redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
