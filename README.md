@@ -14,6 +14,7 @@ Find out more about me & feel free to connect with me here:
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-2b2b2b?style=flat-square&logo=vue.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Next.js](https://img.shields.io/badge/-Next.js-2b2b2b?style=flat-square&logo=next.js)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
