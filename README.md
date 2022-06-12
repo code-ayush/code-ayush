@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F70000&center=true&vCenter=true&lines=I'm+a+full-stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=I'm+a+full-stack+developer)](https://git.io/typing-svg)
 
 Find out more about me & feel free to connect with me here:
 
