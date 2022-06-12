@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F70000&center=true&vCenter=true&lines=I'm+a+full-stack+developer)](https://git.io/typing-svg)
+
 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-AyushGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-gupta-686879ba/)](https://www.linkedin.com/in/ayush-gupta-686879ba/)
